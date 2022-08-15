@@ -1,0 +1,100 @@
+{
+  "name": "Rugged Revenants Gen 1 #3299",
+  "symbol": "RRDC",
+  "description": "Rugged revenants are NFTs that holders will use as playable characters within the game. They provide in-game benefits like flight and extra lives based on their attributes.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeigxos5rocavazxonsxwhfjocuysss6mh54s2a2y5xgly7j3oo5jbi.ipfs.dweb.link/3299.png?ext=png",
+  "attributes": [
+   {
+      "value": "0",
+      "trait_type": "Health"
+    },
+    {
+      "value": "0",
+      "trait_type": "Health Regeneration"
+    },
+    {
+      "value": "0",
+      "trait_type": "Projectile Count"
+    },
+    {
+      "value": "0",
+      "trait_type": "Projectile Regeneration"
+    },
+    {
+      "value": "0",
+      "trait_type": "Projectile Type"
+    },
+    {
+      "value": "0",
+      "trait_type": "Luck"
+    },
+    {
+      "value": "Command Center",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Backwear"
+    },
+    {
+      "value": "Fast Body",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Fast's Tail",
+      "trait_type": "Tail"
+    },
+    {
+      "value": "Fastbot Eyes",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Fastbot Body",
+      "trait_type": "Bodywear"
+    },
+    {
+      "value": "Fastbot Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Fastbot Shoes",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Outerwear"
+    },
+    {
+      "value": "Fastbot Face",
+      "trait_type": "Facewear"
+    },
+    {
+      "value": "Mecha Fast Head",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "None",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Fast Claws",
+      "trait_type": "Weapon"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
